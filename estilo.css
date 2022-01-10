@@ -1,0 +1,28 @@
+div, #maior{ 
+    /* background-color: lightgrey; */
+    width: 450px;
+    height: 200px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: auto;
+    
+  }
+#retangulo{
+    width: 250px;
+    height: 70px;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 30px;
+    margin: auto;
+}
+
+.cores1{
+    background-color:"#0000ff";
+}
+
+body{
+        background-image: url("paper.gif");
+        background-color: #cccccc;  
+}
+.hidden{
+    visibility: hidden;
+}
